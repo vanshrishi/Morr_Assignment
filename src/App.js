@@ -21,7 +21,7 @@ const App =()=>
   <Header name = 'Titles'/>
     <div className='content'>
       <p>
-        <Link to="/series"><button>Series</button></Link>             <Link to="/movies"><button>Movies</button></Link></p>
+        <button>Series</button>             <button>Movies</button></p>
     </div>
   <Footer />
     <Router>
